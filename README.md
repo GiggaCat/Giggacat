@@ -1,3 +1,4 @@
+![logo](https://github.com/GiggaCat/Giggacat/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Vansh Arora</h1>
 <h3 align="center">A computer science student passionate about problem solving skills and wanna be a python developer....</h3>
 
