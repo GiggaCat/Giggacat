@@ -1,5 +1,5 @@
 <div align="center" style="background-color:#1e293b; border-radius:20px; padding:30px; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);">
-  <img src="https://github.com/GiggaCat/Giggacat/blob/main/banner.png" alt="Vansh Arora Logo" style="width:100%; max-width:900px; border-radius:20px;">
+  <img src="https://github.com/GiggaCat/Giggacat/blob/main/git(banner).jpg" alt="Vansh Arora Logo" style="width:100%; max-width:900px; border-radius:20px;">
 </div>
 
 <h1 align="center" style="color:#4ade80;">Hi 👋, I'm Vansh Arora</h1>
