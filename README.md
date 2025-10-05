@@ -3,7 +3,7 @@
 ---
 
  <h1 align="center">👨🏼‍💻 Whoami  </h1>
-<h2><pre style="font-family:'Roboto Mono', monospace; font-size:15px; color:#e2e8f0; background-color:#0f172a; padding:20px; border-radius:12px; line-height:1.6; border:1px solid #1e293b;">
+<pre style="font-family:'Roboto Mono', monospace; font-size:15px; color:#e2e8f0; background-color:#0f172a; padding:20px; border-radius:12px; line-height:1.6; border:1px solid #1e293b;">
 Hello! My name is <b>Vansh Arora</b> — a passionate <b>Data Analytics Enthusiast</b> pursuing 
 Computer Science Engineering 🎓. I explore the intersection of logic, 
 creativity, and data to uncover stories hidden in numbers.
@@ -14,7 +14,7 @@ Driven by curiosity, I keep learning new analytical tools to
 make complex data simple, visual, and actionable.
 
 <b>“Clean data. Clear insights. Smart decisions.”</b>
-</pre></h2>
+</pre>
 
 <h2><p align="center">
   <img src="https://img.shields.io/badge/Student-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
